@@ -1,5 +1,4 @@
-# FundRequest Whitepaper
-
+## FundRequest Whitepaper <img align="right" src="https://fundrequest.io/assets/img/logo.png" height="30px" />
 > Decentralized business support platform that fuels Open Source software development
 
 Our whitepaper is located here : https://fundrequest.io/whitepaper
